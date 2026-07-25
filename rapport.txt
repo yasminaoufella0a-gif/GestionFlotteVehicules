@@ -1,0 +1,17 @@
+===== RAPPORT DE LA FLOTTE =====
+
+ABC123 - Toyota Corolla
+DEF456 - Honda Civic
+GHI789 - Ford Focus
+JKL321 - Hyundai Elantra
+MNO654 - Kia Forte
+MOT101 - Yamaha MT-07
+MOT102 - Honda CB500
+MOT103 - Kawasaki Ninja
+MOT104 - Suzuki SV650
+MOT105 - BMW G310R
+CAM201 - Ford Transit
+CAM202 - Mercedes Sprinter
+CAM203 - Renault Master
+CAM204 - Iveco Daily
+CAM205 - Fiat Ducato
