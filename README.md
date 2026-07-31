@@ -27,5 +27,4 @@ Ce projet est une application Java permettant de gérer une flotte de véhicules
 - ArrayList
 - Lecture de fichiers CSV
 
-## Auteur
-Yasmina Oufella
+
