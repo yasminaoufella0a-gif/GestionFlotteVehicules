@@ -63,6 +63,14 @@ public abstract class Vehicule implements interfaces.Louable, interfaces.Entrete
     public String getImmatriculation() {
         return immatriculation;
     }
+    public String getMarque() {
+        return marque;
+    }
+
+    public String getModele() {
+        return modele;
+    }
+
 
     public double getKilometrage() {
         return kilometrage;

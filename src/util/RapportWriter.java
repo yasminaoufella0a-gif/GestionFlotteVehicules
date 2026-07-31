@@ -13,25 +13,32 @@ public class RapportWriter {
 
         try {
 
-            PrintWriter writer =
-                    new PrintWriter(new FileWriter("rapport.txt"));
+            PrintWriter writer = new PrintWriter(new FileWriter("rapport.txt"));
 
-            writer.println("===== RAPPORT DE LA FLOTTE =====");
+            writer.println("=====& RAPPORT DE LA FLOTTE BMW  &=====");
             writer.println();
 
+            System.out.println("=====& RAPPORT DE LA FLOTTE BMW &=====");
+            System.out.println();
+
             for (Vehicule v : flotte) {
-                writer.println(v);
+
+                String ligne = v.getImmatriculation() + " - "
+                        + v.getMarque() + " "
+                        + v.getModele();
+
+                writer.println(ligne);
+                System.out.println(ligne);
             }
 
             writer.close();
 
+            System.out.println();
             System.out.println("Rapport généré avec succès.");
 
         } catch (IOException e) {
 
-            System.out.println(
-                    "Erreur lors de la génération du rapport."
-            );
+            System.out.println("Erreur lors de la génération du rapport.");
         }
     }
 }

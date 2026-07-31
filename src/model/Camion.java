@@ -16,6 +16,6 @@ public class Camion extends Vehicule {
 
     @Override
     public double calculerTarifLocation(int jours) {
-        return (tarifJournalier * jours) + 50;
+        return (tarifJournalier * jours) + 100;
     }
 }

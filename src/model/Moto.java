@@ -16,6 +16,6 @@ public class Moto extends Vehicule {
 
     @Override
     public double calculerTarifLocation(int jours) {
-        return tarifJournalier * jours * 0.8;
+        return tarifJournalier * jours * 0.15;
     }
 }
