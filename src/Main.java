@@ -39,7 +39,7 @@ public class Main {
 
             System.out.println(
                     "Montant de la location : "
-                            + montant + " €"
+                            + montant + " $"
             );
 
             locationService.retournerVehicule(
@@ -71,7 +71,7 @@ public class Main {
         System.out.println(
                 "Revenu total généré : "
                         + statistiques.calculerRevenuTotal(vehicules)
-                        + " €"
+                        + " $"
         );
 
         System.out.println(
