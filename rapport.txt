@@ -1,17 +1,17 @@
-===== RAPPORT DE LA FLOTTE =====
+===== RAPPORT DE LA FLOTTE BMW =====
 
-ABC123 - Toyota Corolla
-DEF456 - Honda Civic
-GHI789 - Ford Focus
-JKL321 - Hyundai Elantra
-MNO654 - Kia Forte
-MOT101 - Yamaha MT-07
-MOT102 - Honda CB500
-MOT103 - Kawasaki Ninja
-MOT104 - Suzuki SV650
-MOT105 - BMW G310R
-CAM201 - Ford Transit
-CAM202 - Mercedes Sprinter
-CAM203 - Renault Master
-CAM204 - Iveco Daily
-CAM205 - Fiat Ducato
+BMW001 - BMW Série 1
+BMW002 - BMW Série 3
+BMW003 - BMW Série 5
+BMW004 - BMW Série 7
+BMW005 - BMW X1
+BMW006 - BMW X3
+BMW007 - BMW X5
+BMW008 - BMW X6
+BMW009 - BMW X7
+BMW010 - BMW i4
+BMW011 - BMW i5
+BMW012 - BMW i7
+BMW013 - BMW iX
+BMW014 - BMW Z4
+BMW015 - BMW M4
